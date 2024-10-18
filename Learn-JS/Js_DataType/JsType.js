@@ -13,7 +13,7 @@ console.log("Learn data types...!")
 //Non-Premitive datatypes
 
 //Object
-//Array group of same type value with unique index number 0 to n 
+//Array group of same data type value with unique index number 0 to n 
 
 let str = "Hello World"
 let symbol1 = Symbol("Hello")
