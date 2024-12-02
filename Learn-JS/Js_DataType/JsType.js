@@ -34,4 +34,11 @@ let obj = {
 
 let array = [1,2,3,4,5];
 
-console.log(symbol1===symbol2)
+console.log(symbol1===symbol2);
+
+let str1="Hello my name is this";
+let str2='Ok done this';
+
+let finalstring= `${str1},${str2}`
+
+console.log(finalstring);
